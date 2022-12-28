@@ -11,9 +11,6 @@ This is a student management system built using Java and MySql. It allows users 
 - git clone https://github.com/Aadhityaa745/StudentManagementSystem.git
 - Import the project into your preferred Java IDE (Eclipse, IntelliJ, etc.)
 - Set up a MySql database and update the database connection details in the SMS.java file:
-- private static final String USERNAME = "YOUR_USERNAME";
-- private static final String PASSWORD = "YOUR_PASSWORD";
-- private static final String CONN_STRING = "jdbc:mysql://localhost:3306/YOUR_DATABASE_NAME";
 - Run the SMS.java file to create the necessary tables in the database.
 - Run the SMS.java file to start the application.
 
